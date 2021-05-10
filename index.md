@@ -1,18 +1,22 @@
-## Portfolio
+## Maya's Portfolio
 
 ---
 
-### Category Name 1 
+### My creative works
 
-[Project 1 Title](/sample_page)
+[Project 1 Mother's day Poster](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Galaxy Girl](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Nature](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 4 Celebrity](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

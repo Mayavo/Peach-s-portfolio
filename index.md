@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Galaxy Girl](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Galaxy%20girl.png"/>
 
 ---
 [Project 3 Nature](http://example.com/)
@@ -17,7 +17,7 @@
 
 ---
 [Project 4 Celebrity](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Celebrity%20.jpg"/>
 
 ---
 

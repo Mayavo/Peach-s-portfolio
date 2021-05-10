@@ -5,7 +5,7 @@
 ### My creative works
 
 [Project 1 Mother's day Poster](/sample_page)
-<img src="images/Mother's Day.jpg"/>
+<img src="images/Mother's%20Day%20.jpg"/>
 
 ---
 [Project 2 Galaxy Girl](/pdf/sample_presentation.pdf)

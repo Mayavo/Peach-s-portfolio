@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Nature](http://example.com/)
-<img src="images/Nature day.png?raw=true"/>
+<img src="images/Nature day.jpg?raw=true"/>
 
 ---
 [Project 4 Celebrity](http://example.com/)
